@@ -21,7 +21,7 @@ Want to know more about me? [Check out my portfolio.](https://pdeinla.fibilous.c
 <br>
 <br>
 <a href="https://github.com/Phibee">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phibee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Phibee's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phibee&show_icons=true&line_height=27&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Phibee's GitHub Stats" />
 </a>
 
 <br>
