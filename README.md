@@ -56,6 +56,9 @@ Want to know more about me? [Check out my portfolio.](https://pdeinla.fibilous.c
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
 
+![](https://img.shields.io/badge/DevTools-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DevTools-Rider-informational?style=flat&logo=rider&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
@@ -65,10 +68,10 @@ Want to know more about me? [Check out my portfolio.](https://pdeinla.fibilous.c
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=Insomnia&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Designer-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Designer-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Designer-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Designer-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 
 </details>
 
